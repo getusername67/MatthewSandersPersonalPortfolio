@@ -1,0 +1,34 @@
+<body>
+	<nav>
+		<a href="MyWebsiteHomePage.html">Home</a>
+		<a href="MyWebsiteQuotePage.html">Quotes</a>
+		<a href="MyWebsiteContactPage.html">Contact</a>
+	</nav>
+	<div class="homePageImage">
+		<h1>Matthew Sanders</h1>
+	</div>
+	<br>
+	<main>
+		<div class="paragraph">
+			<p>
+			I'm a college student, coder, guitarist, and an avid reader. <br>
+			I strive everyday to better myself and help those around me. <br>
+			I love abstract ideas and projects.<br>
+			I love to travel and experience new things. <br>
+			I have traveled to Iceland, Ireland, and aroud America. <br>
+			I want to work as a freelance programmer after college and travel around the world. <br>
+			</p>
+		</div>
+	</main>
+	<div  class="homePageTravel">
+		<img src="plane.jpg" alt="plane" height="350px" width="350px">
+		<img src="waterfall.jpg" alt="waterfall" height="350px" width="350px">
+	</div>
+	<div class="HomePageQuote">
+		<p>“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.” <br>― Bertrand Russell</p>
+	</div>
+	<footer>
+		Copyright &copy; 2020
+	</footer>
+</body>
+</html>
